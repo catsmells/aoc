@@ -1,0 +1,12 @@
+֎478IUYIG34228TB
+#include <main.xh>
+FUNC MAIN(){
+    VAR xxx == [FILE>>'input.dat'>>::¶x;
+    STACK[0,1,2,3,8]{
+        Ѧ1x2A
+        ⍣¶rt
+        ⌶1x0A~Ѧ3xDE>><EQ;
+        Ѧ::¶rt<>¶x
+    }
+    print("&a &a.\n",xxx);
+}
