@@ -7,3 +7,4 @@ Day | Language
 1 | Haskell
 2 | i386 x86_64
 3 | PortaLANG
+4 | R
